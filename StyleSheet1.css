@@ -1,0 +1,21 @@
+﻿body {
+    background-color: powderblue;
+}
+
+hr {
+    background-color: white;
+    border-style: dotted none none;
+    width: 30%;
+}
+
+h1 {
+    color: blue;
+}
+
+h3 {
+    color: blue;
+}
+
+h2 {
+    color: blue;
+}
